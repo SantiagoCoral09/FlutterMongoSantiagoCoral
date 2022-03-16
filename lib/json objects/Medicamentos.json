@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "622fe1412ef8ae9e1f46a329"
+  },
+  "nombre": "paracetamol",
+  "clasificacion": "analgesico, antipiretico",
+  "via administracion": "oral",
+  "contraindicaciones": "Hipersensibilidad",
+  "efectos secundarios": "nauseas, somnolencia"
+},{
+  "_id": {
+    "$oid": "622fe1412ef8ae9e1f46a32a"
+  },
+  "nombre": "ibuprofeno",
+  "clasificacion": "analgesico, antiinflamatorio",
+  "via administracion": "oral",
+  "contraindicaciones": "No recomendado a mujeres embarazadas",
+  "efectos secundarios": "nauseas, somnolencia"
+},{
+  "_id": {
+    "$oid": "622fe1412ef8ae9e1f46a32b"
+  },
+  "nombre": "metamizol",
+  "clasificacion": "analgesico, antipiretico",
+  "via administracion": "oral",
+  "contraindicaciones": "Embarazo, lactancia, bronco espasmo",
+  "efectos secundarios": "leucopenis, anemia aplasica"
+},{
+  "_id": {
+    "$oid": "622fe1412ef8ae9e1f46a32c"
+  },
+  "nombre": "diclofenaco",
+  "clasificacion": "analgesico, antiinflamatorio",
+  "via administracion": "oral",
+  "contraindicaciones": "Antecedentes de renitis, No usar en pacientes que usen lentes",
+  "efectos secundarios": "nauseas, catarata, vision borrosa"
+}]

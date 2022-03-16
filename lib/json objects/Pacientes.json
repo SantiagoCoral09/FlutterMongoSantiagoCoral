@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "622fad41984c15755d959be3"
+  },
+  "nombre": "santiago",
+  "apellido": "coral",
+  "genero": "masculino",
+  "edad": "22",
+  "estrato": "1",
+  "rh": "O+"
+},{
+  "_id": {
+    "$oid": "622fad41984c15755d959be4"
+  },
+  "nombre": "juan",
+  "apellido": "rodriguez",
+  "edad": "21",
+  "estrato": "4",
+  "rh": "A+"
+},{
+  "_id": {
+    "$oid": "622fb1872ef8ae9e1f46a2fa"
+  },
+  "nombre": "alejandra",
+  "apellido": "castro",
+  "genero": "femenino",
+  "edad": "20",
+  "estrato": "2",
+  "rh": "O-"
+},{
+  "_id": {
+    "$oid": "622fb1872ef8ae9e1f46a2fb"
+  },
+  "nombre": "daniel",
+  "apellido": "benavides",
+  "genero": "masculino",
+  "edad": "42",
+  "estrato": "1",
+  "rh": "O+"
+},{
+  "_id": {
+    "$oid": "622fb1872ef8ae9e1f46a2fc"
+  },
+  "nombre": "daniela",
+  "apellido": "ramirez",
+  "genero": "femenino",
+  "edad": "28",
+  "estrato": "3",
+  "rh": "A+"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622fd6aa2ef8ae9e1f46a310"
+  },
+  "nombre": "Cirugia Oral",
+  "descripcion": "Extracciones"
+},{
+  "_id": {
+    "$oid": "622fd6aa2ef8ae9e1f46a311"
+  },
+  "nombre": "Odontologia Preventiva",
+  "descripcion": "Tartrectomias"
+},{
+  "_id": {
+    "$oid": "622fd6aa2ef8ae9e1f46a312"
+  },
+  "nombre": "Protesisi Dental",
+  "descripcion": "Sustitucion de piezas dentarias"
+},{
+  "_id": {
+    "$oid": "622fd6aa2ef8ae9e1f46a313"
+  },
+  "nombre": "Odontologia Infantil",
+  "descripcion": "Tratamiento odontologico para niños"
+}]

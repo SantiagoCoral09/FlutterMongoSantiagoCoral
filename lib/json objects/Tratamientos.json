@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622fd8a72ef8ae9e1f46a317"
+  },
+  "nombre": "Blanqueamiento Dental",
+  "descripcion": "Quitar todas las manchas dentales que puedan tener los dientes",
+  "fecha": "21/05/2022"
+},{
+  "_id": {
+    "$oid": "622fd8a72ef8ae9e1f46a318"
+  },
+  "nombre": "Extracción de muelas del juicio",
+  "descripcion": "Extraer algunas piezas bucales",
+  "fecha": "2/04/2022"
+},{
+  "_id": {
+    "$oid": "622fd8a72ef8ae9e1f46a319"
+  },
+  "nombre": "Ortodoncia brackets",
+  "descripcion": "Corregir los problemas de la mordida",
+  "fecha": "12/08/2022"
+}]

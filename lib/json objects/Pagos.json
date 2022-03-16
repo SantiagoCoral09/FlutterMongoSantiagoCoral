@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622fdbcd2ef8ae9e1f46a323"
+  },
+  "tratamiento": "Blanqueamiento Dental",
+  "fecha": "21/06/2022",
+  "medio de pago": "Efectivo",
+  "valor": "100000"
+},{
+  "_id": {
+    "$oid": "622fdbcd2ef8ae9e1f46a324"
+  },
+  "tratamiento": "Extracción de muelas del juicio",
+  "fecha": "2/05/2022",
+  "medio de pago": "Efectivo",
+  "valor": "400000"
+},{
+  "_id": {
+    "$oid": "622fdbcd2ef8ae9e1f46a325"
+  },
+  "tratamiento": "Ortodoncia brackets",
+  "fecha": "12/09/2022",
+  "medio de pago": "Tarjeta de credito",
+  "valor": "600000"
+}]

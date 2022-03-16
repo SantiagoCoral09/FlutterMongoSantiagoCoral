@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "622fd32e2ef8ae9e1f46a308"
+  },
+  "nombre": "javier",
+  "apellido": "benitez",
+  "celular": "3154567898",
+  "genero": "masculino",
+  "edad": "32",
+  "especielidad": "odontologo general"
+},{
+  "_id": {
+    "$oid": "622fd32e2ef8ae9e1f46a309"
+  },
+  "nombre": "paola",
+  "apellido": "narvaez",
+  "celular": "3104567887",
+  "genero": "femenino",
+  "edad": "35",
+  "especielidad": "endodoncista"
+},{
+  "_id": {
+    "$oid": "622fd32e2ef8ae9e1f46a30a"
+  },
+  "nombre": "luisa",
+  "apellido": "garcia",
+  "celular": "3015879656",
+  "genero": "femenino",
+  "edad": "40",
+  "especielidad": "periodoncista"
+},{
+  "_id": {
+    "$oid": "622fd32e2ef8ae9e1f46a30b"
+  },
+  "nombre": "carlos",
+  "apellido": "fernandez",
+  "celular": "3125684477",
+  "genero": "masculino",
+  "edad": "35",
+  "especielidad": "ortodoncista"
+},{
+  "_id": {
+    "$oid": "622fd32e2ef8ae9e1f46a30c"
+  },
+  "nombre": "gabriela",
+  "apellido": "ramos",
+  "celular": "3225648989",
+  "genero": "femenino",
+  "edad": "33",
+  "especielidad": "odontopediatra"
+}]

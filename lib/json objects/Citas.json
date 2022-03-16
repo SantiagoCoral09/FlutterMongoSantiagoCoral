@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622fda212ef8ae9e1f46a31d"
+  },
+  "tratamiento": "Blanqueamiento Dental",
+  "fecha": "12/09/2022",
+  "hora": "08:00 am",
+  "doctor": "Javier Pistala"
+},{
+  "_id": {
+    "$oid": "622fda212ef8ae9e1f46a31e"
+  },
+  "tratamiento": "Extracción de muelas del juicio",
+  "fecha": "2/05/2022",
+  "hora": "09:00 am",
+  "doctor": "Sandra Guevara"
+},{
+  "_id": {
+    "$oid": "622fda212ef8ae9e1f46a31f"
+  },
+  "tratamiento": "Ortodoncia brackets",
+  "fecha": "12/09/2022",
+  "hora": "08:00 am",
+  "doctor": "Luisa Hernandez"
+}]
